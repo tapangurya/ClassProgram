@@ -1,3 +1,12 @@
+/* Write a program to print number is xylom or not
+ * test case1: number1 = 8,1,3,4,2,2
+ *                      sum1=8+2=10
+ *                      sum2=1+3+4+2=10
+ *  if(sum1==sum2)  xylom
+ *  else not a  xylom  
+ * 
+ */
+
 public class Xylom {
     
     public static void main(String[] args) {
